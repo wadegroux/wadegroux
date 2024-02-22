@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Wade Groux
 ![image](https://github.com/wadegroux/wadegroux/assets/157087862/7f689386-34d0-4d72-8243-775e82abce92)
-### Hi there 👋, I'm Wade Groux
+
 A data analyst with technical skills in SQL, Excel, Python, and Power BI; these skills allow me to discover actionable insights from data.
 
-Skills: My Skills Include:
-• Sourcing and Organizing Data 	
-• Assessing and Cleaning Data 	
-• Modeling Data 	
-• Visualizing and Analyzing Data Leveraging Data Insights to Drive Business Decisions
+**My Skills Include:**
+Sourcing and Organizing Data,	
+Assessing and Cleaning Data,	
+Modeling Data,
+Visualizing and Analyzing Data Leveraging Data Insights to Drive Business Decisions.
 
 - 🌱 I’m currently learning : Machine Learning 
 - 👯 I’m looking to collaborate on : Anything Data Related  
