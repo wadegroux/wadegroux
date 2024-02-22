@@ -1,29 +1,69 @@
-### Hi there 👋, I'm Wade Groux
-![image](https://github.com/wadegroux/wadegroux/assets/157087862/7f689386-34d0-4d72-8243-775e82abce92)
+<h1 align="center">👋 I'm Wade Groux</h1>
 
-A data analyst with technical skills in SQL, Excel, Python, and Power BI; these skills allow me to discover actionable insights from data.
+###
 
-**My Skills Include:**
-Sourcing and Organizing Data,	
-Assessing and Cleaning Data,	
-Modeling Data,
-Visualizing and Analyzing Data Leveraging Data Insights to Drive Business Decisions.
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-- 🌱 I’m currently learning : Machine Learning 
-- 👯 I’m looking to collaborate on : Anything Data Related  
-- 💬 Ask me about : SQL 
-- 📫 How to reach me: LinkedIn 
+###
 
+<h3 align="center">👩‍💻  About Me</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wadegroux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wadegroux/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wadegroux/)  
+###
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<p align="center">I'm Wade Groux, a passionate and results-driven Data Analyst with a keen eye for extracting actionable insights from complex datasets. My expertise lies in data analysis, utilizing SQL for data querying and manipulation, as well as employing Python and R programming languages to build predictive models and perform statistical analysis. With a sharp focus on data quality, I excel in data cleaning and transformation, ensuring that the information we rely on for critical decision-making is accurate and reliable.</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadegroux&show_icons=true)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=wadegroux)  
+<p align="left">My Skills Include:<br>	• Sourcing and Organizing Data<br>	• Assessing and Cleaning Data<br>	• Modeling Data<br>	• Visualizing and Analyzing Data<br>	• Data Insights to Drive Business Decisions</p>
 
+###
 
+<h3 align="center">🛠 Language and tools</h3>
 
+###
 
+<p align="left">• SQL<br>• Python<br>• Excel<br>• Tableau <br>• Power Bi</p>
 
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wadegroux/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wadegroux&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wadegroux.wadegroux&"  />
+</div>
+
+###
