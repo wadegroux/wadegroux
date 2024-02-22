@@ -8,11 +8,15 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">I'm Wade Groux, a passionate and results-driven Data Analyst with a keen eye for extracting actionable insights from complex datasets. My expertise lies in data analysis, utilizing SQL for data querying and manipulation, as well as employing Python and R programming languages to build predictive models and perform statistical analysis. With a sharp focus on data quality, I excel in data cleaning and transformation, ensuring that the information we rely on for critical decision-making is accurate and reliable.</p>
+<p align="left">I'm Wade Groux, a passionate and results-driven Data Analyst with a keen eye for extracting actionable insights from complex datasets. My expertise lies in data analysis, utilizing SQL for data querying and manipulation, as well as employing Python and R programming languages to build predictive models and perform statistical analysis. With a sharp focus on data quality, I excel in data cleaning and transformation, ensuring that the information we rely on for critical decision-making is accurate and reliable.</p>
+
+###
+
+<h3 align="left">💡Skills</h3>
 
 ###
 
@@ -20,7 +24,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
